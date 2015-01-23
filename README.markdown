@@ -9,7 +9,7 @@ The code is from the sample code "UIImageEffect" by Apple. [Original Page](https
 Using CocoaPods to install:
 
 ``` ruby
-pod 'UIImageBlurEffectCategory', :git => 'https://github.com/vc7/UIImageBlurEffectCategory.git'
+pod 'UIImageBlurEffectCategory', :git => 'https://github.com/cod7ce/UIImageBlurEffectCategory.git'
 ```
 
 ## License
